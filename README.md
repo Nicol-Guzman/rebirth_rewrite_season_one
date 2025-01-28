@@ -1,5 +1,7 @@
 # REBIRTH x REWRITE - The Villainess will change her Bad Ending
 
+This is the debug branch of the development.
+
 This visual novel is intended to work as a reference for future Ren'Py developers.
 
 The code will contain every basic aspect of a visual novel made with the Ren'Py engine, as well as many simple features that will enrich the story telling and iteractivity. such as:
