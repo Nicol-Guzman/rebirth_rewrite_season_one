@@ -16,7 +16,7 @@ define qro = Character("Queen Roseria")     # Queen of Drakanna
 
 ## Antagonists
 define lyd = Character("Lydia")             # OG Heroine's best friend in the novel
-define ela = Character("Empress Lanthea")   # Main Villain
+define ela = Character("Empress Lanthea")   # Main VillainÑ
 
 ###### ACTOR SPRITES ######
 
@@ -26,17 +26,16 @@ define ela = Character("Empress Lanthea")   # Main Villain
 
 ###### OBJECTS ######
 
-
-# The game starts here.
-
 label start:
+    
+    "This Alpha DEMO is a work in progress, many of it's features might change by release day."
 
-    scene bg room
+    "FABLE FICTION Interactive invites you to share your thoughts and opinions, with the promise that we will do our best to take them into consideration."
 
-    show eileen happy
+    "We cannot ensure that every and all ideas will make it to the story, but we can assure you that we will carefully read through each one."
 
-    e "You've created a new Ren'Py game."
+    "Feel free to leave your thoughts in the comments section of the projects itch.io page."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    "Enjoy your reading!"
 
     return
